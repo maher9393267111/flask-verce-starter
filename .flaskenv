@@ -1,0 +1,2 @@
+FLASK_PP = app
+FLASK_DEBUG = true
